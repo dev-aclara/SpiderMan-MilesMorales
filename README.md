@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/dev-aclara/SpiderMan-MilesMorales/blob/main/LICENSE)
 
-Repositório criado para armazenar o desafio 18 proposto por Iuri Silva criador da comunidade Codelândia no Discord.
+Repositório criado para armazenar o desafio 18 proposto por  @iuricode criador da comunidade Codelândia no Discord.
 
 ## 🎨 Layout proposto
 [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=41278%3A752)
