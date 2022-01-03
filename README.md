@@ -1,4 +1,4 @@
-# Desafio 18 da comunuidade Codelândia no Discord
+# Desafio 18 da comunidade Codelândia no Discord
 
 ## 🕷️ _Spider-man: Miles Morales_
 
